@@ -1,0 +1,12 @@
+C:\Users\anwar\source\repos\Hotel\ClassLibrary1\bin\Debug\net8.0\HotelHub.Domain.deps.json
+C:\Users\anwar\source\repos\Hotel\ClassLibrary1\bin\Debug\net8.0\HotelHub.Domain.dll
+C:\Users\anwar\source\repos\Hotel\ClassLibrary1\bin\Debug\net8.0\HotelHub.Domain.pdb
+C:\Users\anwar\source\repos\Hotel\ClassLibrary1\obj\Debug\net8.0\HotelHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anwar\source\repos\Hotel\ClassLibrary1\obj\Debug\net8.0\HotelHub.Domain.AssemblyInfoInputs.cache
+C:\Users\anwar\source\repos\Hotel\ClassLibrary1\obj\Debug\net8.0\HotelHub.Domain.AssemblyInfo.cs
+C:\Users\anwar\source\repos\Hotel\ClassLibrary1\obj\Debug\net8.0\HotelHub.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anwar\source\repos\Hotel\ClassLibrary1\obj\Debug\net8.0\HotelHub.Domain.dll
+C:\Users\anwar\source\repos\Hotel\ClassLibrary1\obj\Debug\net8.0\refint\HotelHub.Domain.dll
+C:\Users\anwar\source\repos\Hotel\ClassLibrary1\obj\Debug\net8.0\HotelHub.Domain.pdb
+C:\Users\anwar\source\repos\Hotel\ClassLibrary1\obj\Debug\net8.0\ref\HotelHub.Domain.dll
+C:\Users\anwar\source\repos\Hotel\ClassLibrary1\obj\Debug\net8.0\HotelHub.Domain.sourcelink.json
